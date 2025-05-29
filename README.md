@@ -12,6 +12,6 @@ In this project, I conducted sentiment analysis on Amazon Fine Food Reviews usin
 - Product ID
 - Time of review
 
-Both, VADER and RoBERTa models are widely used for natural language processing (NLP) tasks such as sentiment analysis, text classification, and recommendation systems.
+Both VADER and RoBERTa models are widely used in natural language processing (NLP) tasks such as sentiment analysis, text classification, and recommendation systems. The goal was to compare the performance of the RoBERTa model with that of VADER and assess the strengths and limitations of both approaches.
 
 Click [here](https://sachinbasyal.com/da-projects/project-sa) to view the complete project report.
